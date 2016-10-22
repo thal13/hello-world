@@ -1,4 +1,4 @@
 # hello-world
-introductory repository, made iin order to learn stuff.
+introductory repository, made in order to learn stuff.
 
 something about myself here
